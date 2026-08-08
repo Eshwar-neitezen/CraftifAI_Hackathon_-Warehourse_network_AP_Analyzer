@@ -32,7 +32,7 @@ The demonstration shows:
 ## 📸 Hardware
 
 <!-- Replace the filename with your uploaded image -->
-![Wi-Fi Placement Sentinel Hardware](https://drive.google.com/file/d/1G63HtZI9MmgGoFn_qpu0-oGeSFsAyDXE/view?usp=sharing)
+![Wi-Fi Placement Sentinel Hardware](https://drive.google.com/drive/folders/1KJURYm1enSdwUEfygDc2UrblKAR0jW07?usp=drive_link)
 
 **Prototype hardware:**
 - ESP32-C3 development board
