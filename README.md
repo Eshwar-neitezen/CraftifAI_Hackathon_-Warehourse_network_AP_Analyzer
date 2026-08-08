@@ -27,6 +27,7 @@ The demonstration shows:
 7. RF obstruction experiment
 8. Wireless degradation detection
 
+Find the firmware package here : https://drive.google.com/drive/folders/1f0HW022s0XVICStRTLlObq907P5-6NeR?usp=drive_link
 ---
 
 ## 📸 Hardware
