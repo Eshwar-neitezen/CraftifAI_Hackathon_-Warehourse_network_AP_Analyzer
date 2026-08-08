@@ -32,7 +32,7 @@ The demonstration shows:
 ## 📸 Hardware
 
 <!-- Replace the filename with your uploaded image -->
-![Wi-Fi Placement Sentinel Hardware]
+Network AP analyzer for warehouses
 screenshots : (https://drive.google.com/drive/folders/1KJURYm1enSdwUEfygDc2UrblKAR0jW07?usp=drive_link)
 
 **Prototype hardware:**
