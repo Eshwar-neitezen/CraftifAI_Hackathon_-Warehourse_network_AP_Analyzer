@@ -32,7 +32,8 @@ The demonstration shows:
 ## 📸 Hardware
 
 <!-- Replace the filename with your uploaded image -->
-![Wi-Fi Placement Sentinel Hardware](https://drive.google.com/drive/folders/1KJURYm1enSdwUEfygDc2UrblKAR0jW07?usp=drive_link)
+![Wi-Fi Placement Sentinel Hardware]
+screenshots : (https://drive.google.com/drive/folders/1KJURYm1enSdwUEfygDc2UrblKAR0jW07?usp=drive_link)
 
 **Prototype hardware:**
 - ESP32-C3 development board
@@ -75,8 +76,8 @@ The device connects to a Wi-Fi access point and continuously measures:
 - Wi-Fi channel
 - Gateway IP
 - Gateway latency
-- Packet loss *(in progress — see [Current Status](#9-current-status--limitations))*
-- Ultrasonic distance *(in progress — see [Current Status](#9-current-status--limitations))*
+- Packet loss 
+- Ultrasonic distance
 
 The measurements are used to identify potential wireless degradation.
 
