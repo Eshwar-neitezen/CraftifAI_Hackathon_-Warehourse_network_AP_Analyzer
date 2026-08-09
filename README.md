@@ -129,7 +129,7 @@ The monitoring task and the HC-SR04 driver run as separate concerns in firmware:
 | Layer | Technology |
 |---|---|
 | Target MCU | ESP32-C3 |
-| SDK | ESP-IDF |
+| SDK | ESP-IDF and Firmgen |
 | RTOS | FreeRTOS |
 | Language | C/C++ |
 | Networking | Wi-Fi station mode, gateway latency probing, packet-loss sampling |
