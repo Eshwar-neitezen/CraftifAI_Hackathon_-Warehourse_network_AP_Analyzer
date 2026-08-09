@@ -175,6 +175,7 @@ Each of these pieces — the monitoring task, the HC-SR04 driver, the serial tel
 ### Prerequisites
 
 - [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32c3/get-started/index.html) installed and set up for the `esp32c3` target
+- Firmgen sdk installed and setup with esp-idf toolchain-v5.5(optional, firmware tasks can be done manually also or by using firmgen)
 - An ESP32-C3 development board connected via USB
 - A Wi-Fi access point to connect to (a smartphone hotspot works for testing)
 
