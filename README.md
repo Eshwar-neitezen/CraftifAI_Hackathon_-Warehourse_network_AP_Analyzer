@@ -10,6 +10,8 @@ The firmware itself is built and iterated on with **[FirmGen](#https://craftifai
 
 ## Table of Contents
 
+## Table of Contents
+
 1. [Key Features](#key-features)
 2. [Why This Project Exists](#why-this-project-exists)
 3. [How It Works](#how-it-works)
@@ -27,9 +29,7 @@ The firmware itself is built and iterated on with **[FirmGen](#https://craftifai
 15. [Testing and Observations](#testing-and-observations)
 16. [Limitations](#limitations)
 17. [Future Improvements](#future-improvements)
-18. [Project Structure](#project-structure)
-19. [Development Notes](#development-notes)
-20. [License](#license)
+18. [Development Notes](#development-notes)
 
 ---
 
