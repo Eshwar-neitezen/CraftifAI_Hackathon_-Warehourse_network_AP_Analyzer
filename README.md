@@ -336,6 +336,7 @@ This is a prototype, and its results should be read with that in mind:
 - Add persistent on-device logging (e.g. to flash) for post-walk analysis rather than serial-only output
 - Consider a battery-powered, enclosed form factor for actual field use
 - Explore correlating multiple metrics (RSSI + latency + packet loss) into a single composite health indicator, with the same caveat that it still can't identify root cause
+- implement CSI(Channel-state information) AP analysis to determine the orientation of the antennas of the APs.
 
 ---
 
