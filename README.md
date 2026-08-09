@@ -340,30 +340,6 @@ This is a prototype, and its results should be read with that in mind:
 
 ---
 
-## Project Structure
-
-```text
-wifi-placement-sentinel/
-├── README.md
-├── firmware/
-│   ├── main/
-│   ├── configs/
-│   ├── CMakeLists.txt
-│   └── ...
-├── hardware/
-│   ├── wiring.md
-│   └── BOM.md
-├── docs/
-│   ├── architecture.md
-│   ├── testing.md
-│   └── images/
-└── .gitignore
-```
-
-If your actual repository layout differs from this, treat the above as a target structure and adjust the paths referenced in this README (e.g. build commands, wiring docs) to match.
-
----
-
 ## Development Notes
 
 The firmware was initially generated and has been iteratively refined using **FirmGen**, a tool that converts natural-language firmware requirements into ESP-IDF code, which is then built and validated on real ESP32-C3 hardware. FirmGen was used as part of the development workflow rather than as a feature of the shipped firmware itself — day-to-day development otherwise follows a standard ESP-IDF edit/build/flash/monitor loop.
@@ -376,10 +352,3 @@ In practice, the loop for each feature in this repository has looked like:
 4. Confirm the behavior against the real device — serial output, RSSI readings, buzzer response, HC-SR04 timeout behavior — before writing the next requirement
 
 Features such as the RSSI/channel/latency/packet-loss monitoring loop and the HC-SR04 driver scaffolding went through this cycle multiple times as the hardware observations in [Testing and Observations](#testing-and-observations) surfaced edge cases (e.g. the HC-SR04 timeout behavior) that fed back into the next FirmGen requirement. The [firmware package linked in Resources](#resources) reflects the current output of that loop.
-
----
-
-## License
-
-<!-- Add your chosen license here, e.g.: -->
-<!-- This project is licensed under the MIT License — see [LICENSE](LICENSE) for details. -->
