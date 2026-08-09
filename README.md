@@ -165,7 +165,6 @@ Each of these pieces — the monitoring task, the HC-SR04 driver, the serial tel
 |---|---|
 | Firmware package (FirmGen-generated, hardware-validated) | [Google Drive folder](https://drive.google.com/drive/folders/1f0HW022s0XVICStRTLlObq907P5-6NeR?usp=drive_link) |
 | Hardware photos | [Google Drive folder](https://drive.google.com/drive/folders/1KJURYm1enSdwUEfygDc2UrblKAR0jW07?usp=drive_link) |
-| Demo video | *Not yet linked* |
 
 > These are external Drive folders, not versioned in this repository. If you'd rather keep firmware history in-repo, migrate the package contents into `firmware/` and drop this row once that's done.
 
